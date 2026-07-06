@@ -1,0 +1,14 @@
+# Core Dependencies
+chromadb
+networkx
+pandas
+tabulate
+anyio
+
+# LLM & AI Frameworks
+langchain-google-genai
+google-genai
+google-adk
+
+# MCP (Model Context Protocol)
+mcp
